@@ -6,33 +6,26 @@
 
 ### NAVIGATION OF ALL MATERIAL 
 
-### 1. [Course Information]()
+### 1. [Course Information](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Course-Information)
 
 ---
-### 2. [Additional Resources]()
+### 2. [Assignments](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments)
 
 ---
-### 3. [Notes]()
+### 3. [Lectures-Notes](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Lectures-Notes)
 
 ---
-### 5. [Lab Rubrics]()
+### 4. [Project](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Project)
 
 
---- 
-### 6. [Labs]()
 
----
-### 7. []()
-
---- 
-### 8. []()
 
 
 
 ---
 
 > [!IMPORTANT]
-> ***This Course is meant to introduce you to ....***
+> ***This Course is meant to introduce you to basic technology (algorithms, architectures, systems) and research topics in connection with large-scale data management and knowledge discovery techniques for Big Data. The course will start by introducing Big data models, databases and query languages, and cover modern distributed database systems and algorithms and Big data systems adopted in industry and scientific applications.***
 > ***The Work and Material in this Repo is meant to provide assistance; there is a possibility that a few things here and there are not correct, so please check all contents yourself.***
 
 
