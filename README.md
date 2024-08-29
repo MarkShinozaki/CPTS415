@@ -11,12 +11,12 @@
 ---
 ### 2. [Assignments](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments)
 
-- ##### [Assignment 1](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments/Assignment%201)
-- ##### [Assignment 2](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments/Assignment%202)
-- ##### [Assignment 3](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments/Assignment%203)
-- ##### [Assignment 4](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments/Assignment%204)
-- ##### [Assignment 5](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments/Assignment%205)
-- ##### [Assignment 6](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments/Assignment%206)
+- ##### [Assignment 1 - Relational Modeling](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments/Assignment%201)
+- ##### [Assignment 2 - Data Formats](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments/Assignment%202)
+- ##### [Assignment 3 - Parallel Processing](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments/Assignment%203)
+- ##### [Assignment 4 - Graph & Approximate Queries](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments/Assignment%204)
+- ##### [Assignment 5 - Distributed Processing](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments/Assignment%205)
+- ##### [Assignment 6 - Consistency & NewSQL](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments/Assignment%206)
 
   
 
