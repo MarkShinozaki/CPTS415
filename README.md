@@ -2,13 +2,21 @@
 
 ### Course Project Details
 
+##### [Course Project Rubric/Details](https://github.com/MarkShinozaki/CPTS415-BigData/blob/Project/Course%20Project%20Details.pdf)
+##### [My Project Details](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Project/Project%20Details)
+
 - The course project involves applying Big Data techniques and tools to a real-world problem. Students can choose from several suggested projects or propose their own, provided they align with the course's objectives and are approved by the instructor. Each project requires students to work with large datasets, implement efficient data processing algorithms, and deliver meaningful insights or applications based on the data.
 
 - For example, one suggested project, Airline Search Engine, involves developing a tool that helps users search for flight information based on specific criteria, such as finding airports in a particular country, identifying airlines with certain characteristics, or recommending trips based on user preferences. The project would require students to work with large datasets and implement search and aggregation functionalities using MapReduce, SQL, or graph algorithms.
 
+
+
+
 ---
 
 ### What my Group did 
+
+##### [Airline Search Engine - My Final Project](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Project/Airline-Search-Engine)
 
 - Our group, named "Tres Amigos," worked on developing an Airline Data Search Engine. The primary goals of the project were to:
 
