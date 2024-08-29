@@ -1,6 +1,4 @@
-# Course Syllabus
-
-## Course Title: CPTS 415/515
+#  CPTS 415/515 - Course Syllabus
 
 ### Course Description
 This course introduces students to foundational technologies, including algorithms, architectures, and systems related to large-scale data management and knowledge discovery techniques for Big Data. The curriculum covers a broad spectrum, starting with Big Data models, databases, and query languages, then progressing to modern distributed database systems and algorithms. The course delves into Big Data systems widely adopted in industry and scientific applications. Students will also explore the implementation of a data analysis engine on standalone machines and learn how to build and manage their own systems for handling Big Data. Additionally, the course examines distributed storage, parallel processing, and the architectures that support advanced data analytics. Critical topics such as mining, knowledge discovery of Big Data, and their applications in areas like social analytics, cybersecurity, and information networks are also included.
