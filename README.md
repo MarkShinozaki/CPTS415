@@ -7,9 +7,12 @@
 ### NAVIGATION OF ALL MATERIAL 
 
 ### 1. [Course Information](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Course-Information)
+---
+
+### 2. [Additional Resources](https://github.com/MarkShinozaki/CPTS415-BigData/blob/Additional-Resources/README.md)
 
 ---
-### 2. [Assignments](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments)
+### 3. [Assignments](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments)
 
 - ##### [Assignment 1 - Relational Modeling](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments/Assignment%201)
 - ##### [Assignment 2 - Data Formats](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments/Assignment%202)
@@ -21,7 +24,7 @@
   
 
 ---
-### 3. [Lectures-Notes](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Lectures-Notes)
+### 4. [Lectures-Notes](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Lectures-Notes)
 
 - ##### [WEEK 1](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Lectures-Notes/Week%201)
 
@@ -109,7 +112,7 @@
 
 
 ---
-### 4. [Project](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Project)
+### 5. [Project](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Project)
 
 - ##### [Course Project Rubric/Details](https://github.com/MarkShinozaki/CPTS415-BigData/blob/Project/Course%20Project%20Details.pdf)
 - ##### [My Project Details](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Project/Project%20Details)
