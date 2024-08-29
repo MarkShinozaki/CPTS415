@@ -14,6 +14,32 @@ This course introduces students to foundational technologies, including algorith
 - **Name:** Srinivasulu (Srini) Badri
 - **Email:** srini.badri@wsu.edu
 
+### Course Topics
+- **Introduction to Big Data:**
+  - Big Data models, databases, and query languages.
+  - Overview of Big Data challenges and opportunities.
+  
+- **Distributed Database Systems:**
+  - Distributed storage and processing.
+  - Data partitioning, replication, and consistency models.
+  
+- **Data Analysis Engines:**
+  - Implementation of data analysis engines on standalone machines.
+  - Frameworks for distributed data processing.
+  
+- **Parallel Processing:**
+  - Parallel algorithms for data processing.
+  - Architectures that support parallel processing.
+  
+- **Mining and Knowledge Discovery:**
+  - Techniques for mining Big Data.
+  - Applications in social analytics, cybersecurity, and information networks.
+  
+- **Industry and Scientific Applications:**
+  - Case studies of Big Data systems in use today.
+  - Trends in Big Data research and industry adoption.
+
+
 ### Prerequisites
 Basic knowledge of database systems, programming, and algorithms is required. Familiarity with distributed systems and parallel processing is beneficial.
 
